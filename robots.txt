@@ -1,0 +1,11 @@
+User-agent: *
+
+Allow: /*.css
+Allow: /*.ico
+Allow: /*.jpg
+Allow: /*.png
+Allow: /*.svg
+Allow: /*.pdf
+Allow: /*.html
+
+Sitemap: https://valeriizhorniak.github.io/seo-portfolio/sitemap.xml
